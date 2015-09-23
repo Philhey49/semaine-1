@@ -1,4 +1,4 @@
-# semaine-1
+# semaine-1 
 Bonjour, je m'appelle Philippe. 
 Je fais partie du groupe La Poste.
 
@@ -13,4 +13,4 @@ Je suis au niveau 420 de Soda Crush et 440 de Candy Crush
 
 # Pourquoi je suis sur Simplonline
 Je suis cette formation Simplon pour acquérir les compétences nécessaire à la création d'un site web.
-kjhdsqkjsdfsdfsdffdsfds
+Si l'internet fonctionne
